@@ -347,7 +347,7 @@ namespace DirtyTextEditor
 
             try
             {
-                                                string content = File.ReadAllText(filename);
+                string content = File.ReadAllText(filename);
 
                 GlobalState.g_currentEditFile = filename;
                 GlobalState.g_editor_buffer = content;

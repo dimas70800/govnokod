@@ -6,7 +6,7 @@ using System.Text;
 namespace DirtyTextEditor
 {
         public class TextEditor
-    {
+        {
         
         public static int uselessCounter = 0;
         public static void ReadFile(string filename)
