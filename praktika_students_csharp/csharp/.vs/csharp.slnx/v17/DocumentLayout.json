@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\106010219\\Desktop\\\u0433\u0432\u043D\u043A\u043E\u0434\\govnokod\\praktika_students_csharp\\csharp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CF022C7B-CAF3-706D-67E1-FB93518229B7}|csharp\\csharp.csproj|c:\\users\\106010219\\desktop\\\u0433\u0432\u043D\u043A\u043E\u0434\\govnokod\\praktika_students_csharp\\csharp\\csharp\\utils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF022C7B-CAF3-706D-67E1-FB93518229B7}|csharp\\csharp.csproj|solutionrelative:csharp\\utils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF022C7B-CAF3-706D-67E1-FB93518229B7}|csharp\\csharp.csproj|c:\\users\\106010219\\desktop\\\u0433\u0432\u043D\u043A\u043E\u0434\\govnokod\\praktika_students_csharp\\csharp\\csharp\\filemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF022C7B-CAF3-706D-67E1-FB93518229B7}|csharp\\csharp.csproj|solutionrelative:csharp\\filemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF022C7B-CAF3-706D-67E1-FB93518229B7}|csharp\\csharp.csproj|c:\\users\\106010219\\desktop\\\u0433\u0432\u043D\u043A\u043E\u0434\\govnokod\\praktika_students_csharp\\csharp\\csharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF022C7B-CAF3-706D-67E1-FB93518229B7}|csharp\\csharp.csproj|solutionrelative:csharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF022C7B-CAF3-706D-67E1-FB93518229B7}|csharp\\csharp.csproj|c:\\users\\106010219\\desktop\\\u0433\u0432\u043D\u043A\u043E\u0434\\govnokod\\praktika_students_csharp\\csharp\\csharp\\searchengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF022C7B-CAF3-706D-67E1-FB93518229B7}|csharp\\csharp.csproj|solutionrelative:csharp\\searchengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF022C7B-CAF3-706D-67E1-FB93518229B7}|csharp\\csharp.csproj|c:\\users\\106010219\\desktop\\\u0433\u0432\u043D\u043A\u043E\u0434\\govnokod\\praktika_students_csharp\\csharp\\csharp\\uihelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF022C7B-CAF3-706D-67E1-FB93518229B7}|csharp\\csharp.csproj|solutionrelative:csharp\\uihelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF022C7B-CAF3-706D-67E1-FB93518229B7}|csharp\\csharp.csproj|c:\\users\\106010219\\desktop\\\u0433\u0432\u043D\u043A\u043E\u0434\\govnokod\\praktika_students_csharp\\csharp\\csharp\\texteditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF022C7B-CAF3-706D-67E1-FB93518229B7}|csharp\\csharp.csproj|solutionrelative:csharp\\texteditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FileManager.cs",
+              "DocumentMoniker": "C:\\Users\\106010219\\Desktop\\\u0433\u0432\u043D\u043A\u043E\u0434\\govnokod\\praktika_students_csharp\\csharp\\csharp\\FileManager.cs",
+              "RelativeDocumentMoniker": "csharp\\FileManager.cs",
+              "ToolTip": "C:\\Users\\106010219\\Desktop\\\u0433\u0432\u043D\u043A\u043E\u0434\\govnokod\\praktika_students_csharp\\csharp\\csharp\\FileManager.cs",
+              "RelativeToolTip": "csharp\\FileManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T09:00:48.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TextEditor.cs",
+              "DocumentMoniker": "C:\\Users\\106010219\\Desktop\\\u0433\u0432\u043D\u043A\u043E\u0434\\govnokod\\praktika_students_csharp\\csharp\\csharp\\TextEditor.cs",
+              "RelativeDocumentMoniker": "csharp\\TextEditor.cs",
+              "ToolTip": "C:\\Users\\106010219\\Desktop\\\u0433\u0432\u043D\u043A\u043E\u0434\\govnokod\\praktika_students_csharp\\csharp\\csharp\\TextEditor.cs",
+              "RelativeToolTip": "csharp\\TextEditor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T09:00:39.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UIHelper.cs",
+              "DocumentMoniker": "C:\\Users\\106010219\\Desktop\\\u0433\u0432\u043D\u043A\u043E\u0434\\govnokod\\praktika_students_csharp\\csharp\\csharp\\UIHelper.cs",
+              "RelativeDocumentMoniker": "csharp\\UIHelper.cs",
+              "ToolTip": "C:\\Users\\106010219\\Desktop\\\u0433\u0432\u043D\u043A\u043E\u0434\\govnokod\\praktika_students_csharp\\csharp\\csharp\\UIHelper.cs",
+              "RelativeToolTip": "csharp\\UIHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T09:00:44.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Utils.cs",
+              "DocumentMoniker": "C:\\Users\\106010219\\Desktop\\\u0433\u0432\u043D\u043A\u043E\u0434\\govnokod\\praktika_students_csharp\\csharp\\csharp\\Utils.cs",
+              "RelativeDocumentMoniker": "csharp\\Utils.cs",
+              "ToolTip": "C:\\Users\\106010219\\Desktop\\\u0433\u0432\u043D\u043A\u043E\u0434\\govnokod\\praktika_students_csharp\\csharp\\csharp\\Utils.cs",
+              "RelativeToolTip": "csharp\\Utils.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T09:00:43.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SearchEngine.cs",
+              "DocumentMoniker": "C:\\Users\\106010219\\Desktop\\\u0433\u0432\u043D\u043A\u043E\u0434\\govnokod\\praktika_students_csharp\\csharp\\csharp\\SearchEngine.cs",
+              "RelativeDocumentMoniker": "csharp\\SearchEngine.cs",
+              "ToolTip": "C:\\Users\\106010219\\Desktop\\\u0433\u0432\u043D\u043A\u043E\u0434\\govnokod\\praktika_students_csharp\\csharp\\csharp\\SearchEngine.cs",
+              "RelativeToolTip": "csharp\\SearchEngine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T09:00:39.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\106010219\\Desktop\\\u0433\u0432\u043D\u043A\u043E\u0434\\govnokod\\praktika_students_csharp\\csharp\\csharp\\Program.cs",
+              "RelativeDocumentMoniker": "csharp\\Program.cs",
+              "ToolTip": "C:\\Users\\106010219\\Desktop\\\u0433\u0432\u043D\u043A\u043E\u0434\\govnokod\\praktika_students_csharp\\csharp\\csharp\\Program.cs",
+              "RelativeToolTip": "csharp\\Program.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAIwAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T08:58:17.853Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
